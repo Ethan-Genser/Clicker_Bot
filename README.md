@@ -4,37 +4,7 @@ A simple, light-weight autoclicker bot.
 ## Prerequisites
 
 Before you can run this program, ensure that you have the following software installed and functional:
-* One of the following distributions of AutoHotkey:
-    * 1.1.00.00
-    * 1.1.01.00
-    * 1.1.02.00
-    * 1.1.03.00
-    * 1.1.04.00
-    * 1.1.05.00
-    * 1.1.06.00
-    * 1.1.07.00
-    * 1.1.08.00
-    * 1.1.09.00
-    * 1.1.10.00
-    * 1.1.11.00
-    * 1.1.12.00
-    * 1.1.13.00
-    * 1.1.14.00
-    * 1.1.15.00
-    * 1.1.16.00
-    * 1.1.17.00
-    * 1.1.18.00
-    * 1.1.19.00
-    * 1.1.20.00
-    * 1.1.21.00
-    * 1.1.22.00
-    * 1.1.23.00
-    * 1.1.24.00
-    * 1.1.25.00
-    * 1.1.26.00
-    * 1.1.27.00
-    * 1.1.28.00
-    * 1.1.29.00
+* AutoHotkey 1.1.29.00 or newer:
 *  *Note: this proram has not been tested with AutoHotkey version 2 and may not function properly if run using this version of AutoHotkey.*
 
 ## Installing
